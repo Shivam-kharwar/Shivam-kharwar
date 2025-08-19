@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Shivam
 
-<!--
-**Shivam-kharwar/Shivam-kharwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning Web Development (HTML, CSS, JavaScript)
+💡 Exploring backend development & databases in the future
+🎯 Goal: Become a Full-Stack Developer
+⚡ Fun fact: I believe learning by building projects is the best way to grow!
 
-Here are some ideas to get you started:
+🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 HTML | 🎨 CSS | ⚡ JavaScript
+
+🛠️ Git & GitHub (just starting out)
+
+📚 Always learning something new
+
+📌 Current Projects
+
+✅ My first simple web development project (uploaded here on GitHub)
+
+🚀 More projects coming soon…
+
+📫 Connect with Me
+
+
+LinkedIn: (www.linkedin.com/in/shivam-kharwar-943362241)
+
+Email: (shivamkharwar20@gmail.com)
